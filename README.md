@@ -1,0 +1,2 @@
+# car
+Copr alias resolver
