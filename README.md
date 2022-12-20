@@ -1,5 +1,5 @@
-# CAR
-Copr alias resolver
+# BAR
+Build alias resolver
 
 ## Usage
 ```commandline
